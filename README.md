@@ -1,5 +1,5 @@
 ### Hi there! 👋 Thanks for stopping by
-### I'm Suraj & I like to learn things by building stuff that can add value to our life.
+### I'm Suraj & I enjoy collaborating on software projects.
 
 <!--
 **KulkarniSuraj/KulkarniSuraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on my side project that uses NLP, which you can find in my github repositories
-- 🌱 I’m currently learning REST APIs, Qliksense, python, powershell and anything that is required to accomplish the task.
-- 👯 I’m looking to collaborate on creating administration tools.
+- 🔭 I’m currently working on my side projects that would simplify some small but tedious tasks.
+- 🌱 I’m currently learning REST APIs, React and anything that is required to accomplish the task.
+- 👯 I’m looking to collaborate on React applications.
 - 🤔 I’m looking for help with creating full stack application <!-- 📫 How to reach me: ...-->
 - 😄 Pronouns: he/him
